@@ -1,0 +1,1 @@
+datafile wave.csv will need to be generated for this code to work, this file contains the x and y values with the corresponding title row, where x is a random value from -10 to 10 and y is generated with the function f = exp(-(x/4)^2) * cos(4x) and with noise added

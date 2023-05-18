@@ -1,0 +1,1 @@
+data from https://www.statlearning.com/s/Credit.csv, previously accessed via https://faculty.marshall.usc.edu/gareth-james/ISL/Credit.csv (now directs to a 404 page)
